@@ -1,0 +1,12 @@
+{
+  "name": "kafka-poc",
+  "version": "0.0.1",
+  "description": "POC of kafka messaging",
+  "main": "index.js",
+  "author": "Zizaco <zizaco@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-rdkafka": "^2.3.1"
+  }
+}
